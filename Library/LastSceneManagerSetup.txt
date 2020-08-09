@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/Scripts/BackPropagation/Backpropagation.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scripts/TwoCriteriaOpt/TwoCriteria.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scripts/OneCriateria/OneCriteria.unity
+  isLoaded: 0
+  isActive: 0
